@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+video {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.overlay-form {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+.overlay-form input {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.overlay-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.overlay-list {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 400px;
+}
+
+.overlay-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.overlay-list li {
+  margin: 10px 0;
+}
